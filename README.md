@@ -24,6 +24,6 @@ Thali's commitment to enhancing convenience and affordability in food ordering e
 <div align="center">
 <img src="https://github.com/0virusdetect/thali/assets/47599266/45e89330-9c77-4d82-81fc-a5fecc0cb4de" width="190" height="440">
 <img src="https://github.com/0virusdetect/thali/assets/47599266/f2a5005d-83bb-435a-8661-cfbba641da13" width="190" height="440">
-<img src="[https://github.com/0virusdetect/thali/assets/47599266/f2a5005d-83bb-435a-8661-cfbba641da13](https://github.com/0virusdetect/thali/assets/47599266/20525948-bd3a-44ad-9729-41c425e27712)" width="190" height="440">
+<img src="https://github.com/0virusdetect/thali/assets/47599266/20525948-bd3a-44ad-9729-41c425e27712" width="190" height="440">
 <img src="https://github.com/0virusdetect/thali/assets/47599266/0a38a149-c5c9-47fb-8318-1591ee4378dc" width="190" height="440">
 </div>
