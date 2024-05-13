@@ -11,7 +11,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 * 💻 HTML
 * 💻 CSS
 * 💻 PHP
-* 
+
 # Thali
 Thali presents a seamless solution for food ordering.
 
